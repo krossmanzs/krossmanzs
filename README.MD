@@ -1,7 +1,7 @@
 # Hi there, I'm Linux - aka **Krossmanzs** 👋 
 
 ## 👨 **About Me**
-My name **Cornelius Linux**. Born in a smoll city, Pringsewu, Lampung, Indonesia. I'm currently a college student at [ITERA](https://www.itera.ac.id/). When i was 8yo, I'd like to make DLL Injector for game hax with VBS. I did that because it was fun to play with game security. I love to help other people to know about programming.
+My name **Cornelius Linux**. Born in a smoll city, Pringsewu, Lampung, Indonesia. I'm currently a college student at [ITERA](https://www.itera.ac.id/). When i was ~10yo, I'd like to make DLL Injector for game hax with VBS. I did that because it was fun to play with game security. I love to help other people to know about programming.
 
 ## 💬 **Reach Me**
 
