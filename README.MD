@@ -12,7 +12,7 @@ My name **Cornelius Linux**. Born in a smoll city, Pringsewu, Lampung, Indonesia
 ## 🚀 **More**
 - 🌱 I’m currently learning on Android and Backend
 - 👯 I’m looking to collaborate with backend engineer
-- 🥅 2022 Goals: Create a full stack Android Apps with good architectural pattern
+- 🥅 2023 Goals: Create a usefull project for human being lol
 - ⚡ Other hobbies: I love playing pc games, especially competitive FPS games.
 
 ## 💪 **Skills**
