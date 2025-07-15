@@ -10,9 +10,9 @@ My name **Cornelius Linux**. Born in a smoll city, Pringsewu, Lampung, Indonesia
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-linux-942851202/)
 
 ## 🚀 **More**
-- 🌱 I’m currently learning on Web and Android Native
+- 🌱 I’m currently learning on Dev Ops and IoT Technologies
 - 👯 I’m looking to collaborate with backend engineer
-- 🥅 2024 Goals: Create a network and simple business
+- 🥅 2025 Goals: Finish my study
 - ⚡ Fun Fact: I love playing pc games, especially competitive FPS games (not Valo**** 😝).
 
 ## 💪 **Skills**
